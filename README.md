@@ -1,3 +1,3 @@
 # university_demo
-This is the repository
+This is the repository.
 Author shrawan 
